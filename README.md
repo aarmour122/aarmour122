@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩🏻‍🏫 I’m currently teachin AP CSP and Honors Pre-Calc
+- 👩🏻‍🏫 I’m currently teaching AP CSP and Honors Pre-Calc
 - 🌱 I’m currently learning Data Analysis
 - 👯 I’m the dance team advisor
 - 💬 Ask me about any assignment
